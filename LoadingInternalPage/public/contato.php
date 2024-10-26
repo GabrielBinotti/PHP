@@ -4,7 +4,7 @@
         <div class="field">
             <label class="label">Nome</label>
             <div class="control">
-                <input class="input" type="text" placeholder="Digite seu nome">
+                <input class="input" type="text" name="name" placeholder="Digite seu nome">
             </div>
         </div>
     </div>
@@ -13,7 +13,7 @@
         <div class="field">
             <label class="label">Email</label>
             <div class="control">
-                <input class="input" type="email" placeholder="Digite seu email">
+                <input class="input" type="email" name="email" placeholder="Digite seu email">
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@
         <div class="field">
             <label class="label">Assunto</label>
             <div class="control">
-                <input class="input" type="text" placeholder="Digite seu assunto">
+                <input class="input" type="text" name="subject" placeholder="Digite seu assunto">
             </div>
         </div>
     </div>
